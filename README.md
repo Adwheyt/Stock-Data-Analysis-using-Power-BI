@@ -32,8 +32,7 @@ The project showcases data visualization techniques to uncover insights into sto
 
 ## 📸 Dashboard Preview
 
-![Uploading Screenshot from 2025-09-08 20-15-19.png…]()
-
+<img width="1314" height="735" alt="Screenshot from 2025-09-08 20-15-19" src="https://github.com/user-attachments/assets/882d6a57-4ad8-48aa-be5d-842c0d44d259" />
 
 ---
 
