@@ -19,7 +19,7 @@ The project showcases data visualization techniques to uncover insights into sto
 
 - `Adani Stock Data Dashboard.pbix` → Power BI dashboard file  
 
-- Dataset acquired from NSE
+- Manually processed Dataset. Acquired from NSE
 
 ---
 
